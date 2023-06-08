@@ -1,0 +1,15 @@
+D:\C#\classg\classg\bin\Debug\net7.0\classg.exe
+D:\C#\classg\classg\bin\Debug\net7.0\classg.deps.json
+D:\C#\classg\classg\bin\Debug\net7.0\classg.runtimeconfig.json
+D:\C#\classg\classg\bin\Debug\net7.0\classg.dll
+D:\C#\classg\classg\bin\Debug\net7.0\classg.pdb
+D:\C#\classg\classg\obj\Debug\net7.0\classg.csproj.AssemblyReference.cache
+D:\C#\classg\classg\obj\Debug\net7.0\classg.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\classg\classg\obj\Debug\net7.0\classg.AssemblyInfoInputs.cache
+D:\C#\classg\classg\obj\Debug\net7.0\classg.AssemblyInfo.cs
+D:\C#\classg\classg\obj\Debug\net7.0\classg.csproj.CoreCompileInputs.cache
+D:\C#\classg\classg\obj\Debug\net7.0\classg.dll
+D:\C#\classg\classg\obj\Debug\net7.0\refint\classg.dll
+D:\C#\classg\classg\obj\Debug\net7.0\classg.pdb
+D:\C#\classg\classg\obj\Debug\net7.0\classg.genruntimeconfig.cache
+D:\C#\classg\classg\obj\Debug\net7.0\ref\classg.dll
